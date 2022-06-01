@@ -1,5 +1,5 @@
 <?php
-// phpinfo();
-echo "こんにちは";
+phpinfo();
+// echo "こんにちは";
 
 ?>
